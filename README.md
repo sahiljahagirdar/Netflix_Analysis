@@ -39,32 +39,51 @@ Exploratory Analysis (EDA) on dataset:
 
 Step 1:
 - Overview of the Dataset:
-- <img width="1179" alt="Image" src="https://github.com/user-attachments/assets/2eebf103-c5a1-4aa8-9ac4-27c9592e35b3" />
+
+  
+<img width="1179" alt="Image" src="https://github.com/user-attachments/assets/2eebf103-c5a1-4aa8-9ac4-27c9592e35b3" />
+
 
 Step 2:
 - df.info() : Overview about the dataset
-- <img width="543" alt="Image" src="https://github.com/user-attachments/assets/30f3eff2-f48f-41e6-9e66-1b300baf9ef3" />
+
+  
+<img width="543" alt="Image" src="https://github.com/user-attachments/assets/30f3eff2-f48f-41e6-9e66-1b300baf9ef3" />
+
 
 Step 3:
 - Check for NULL values
-- <img width="346" alt="step 3" src="https://github.com/user-attachments/assets/8d573f73-3f45-4e38-8acb-dc146a9af80e" />
+
+  
+<img width="346" alt="step 3" src="https://github.com/user-attachments/assets/8d573f73-3f45-4e38-8acb-dc146a9af80e" />
+
 
 step 4:
 - Describe The Dataset
-- <img width="395" alt="Step 4" src="https://github.com/user-attachments/assets/201fd5a4-679a-46d3-bad4-badabc047151" />
+
+  
+<img width="395" alt="Step 4" src="https://github.com/user-attachments/assets/201fd5a4-679a-46d3-bad4-badabc047151" />
+
 
 Step 5:
 - Change Release_date to DateTime format and take out only year from the Dataset
-- <img width="513" alt="Step 5" src="https://github.com/user-attachments/assets/28ba8a2d-cc02-42ee-a32c-bd924a4d0e81" />
+
+
+<img width="513" alt="Step 5" src="https://github.com/user-attachments/assets/28ba8a2d-cc02-42ee-a32c-bd924a4d0e81" />
+
+
+Step 6:
+- Replace Avg_vote with Categorical Data
+
+  
+<img width="662" alt="step 8" src="https://github.com/user-attachments/assets/337b5d4b-3e83-4213-8c4d-bd3884515aac" />
 
 
 Step 7:
-- Replace Avg_vote with Categorical Data
-- <img width="662" alt="step 8" src="https://github.com/user-attachments/assets/337b5d4b-3e83-4213-8c4d-bd3884515aac" />
-
-Step 8:
 - Dataset contains multiple Genre for single movie so split the dataset
-- <img width="445" alt="Step 8" src="https://github.com/user-attachments/assets/5128c720-59e4-4c81-97a1-f71ddeca9efb" />
+
+  
+<img width="445" alt="Step 8" src="https://github.com/user-attachments/assets/5128c720-59e4-4c81-97a1-f71ddeca9efb" />
 
 
 Questions Asked:
